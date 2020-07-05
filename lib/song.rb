@@ -52,5 +52,4 @@ class Song
     song_data
     binding.pry
   end
-  
 end
