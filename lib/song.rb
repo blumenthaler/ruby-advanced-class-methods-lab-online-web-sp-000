@@ -55,6 +55,8 @@ class Song
     song
   end
   
-  
+  def self.create_from_filename(filename)
+    self.create
+  end
   
 end
